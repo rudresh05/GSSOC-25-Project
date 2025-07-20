@@ -17,10 +17,10 @@ This project aims to solve real-world problems by leveraging modern technology. 
 
 | Category        | Technologies Used |
 |----------------|-------------------|
-| Languages       | Kotlin / Java / Python / JS etc. |
-| Frameworks      | Android SDK / Flask / React etc. |
+| Languages       | Kotlin / Java / Python |
+| Frameworks      | Android SDK / Flask / React |
 | APIs / Tools    | Firebase / OpenAI / REST APIs |
-| Others          | Git, GitHub, Figma, Postman etc. |
+| Others          | Git, GitHub, Figma, Postman |
 
 
 # Author - Rudresh Patel (rudreshpatel504@gmail.com)

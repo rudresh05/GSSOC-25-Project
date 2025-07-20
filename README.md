@@ -23,6 +23,10 @@ This project aims to solve real-world problems by leveraging modern technology. 
 | Others          | Git, GitHub, Figma, Postman etc. |
 
 
+#Author - Rudresh Patel (rudreshpatel504@gmail.com)
+#GitHub: github.com/rudresh05
+
+
 ## 👨‍💻 How to Run (if applicable)
 
 ```bash
@@ -31,5 +35,3 @@ git clone https://github.com/RUDRESH05/GSSOC-25-Project.git
 
 # Open in Android Studio / VS Code or run specific command
 
-#Author - Rudresh Patel (rudreshpatel504@gmail.com)
-#GitHub: github.com/rudresh05
